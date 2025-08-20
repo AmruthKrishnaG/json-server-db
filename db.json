@@ -1,13 +1,33 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "marks": 70,
+      "group": "science",
+      "gender": "male",
+      "attributes": [
+        "Music",
+        "Football"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Peter",
+      "marks": 80,
+      "group": "commerce",
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Mary",
+      "marks": 90,
+      "group": "science",
+      "gender": "female",
+      "attributes": [
+        "Crafts",
+        "Guitar"
+      ]
+    }
+  ]
 }
