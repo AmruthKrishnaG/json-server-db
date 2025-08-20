@@ -1,0 +1,23 @@
+{
+  "name": "json-server-db",
+  "version": "0.0.0",
+  "description": "A sample project to host db using json-server",
+  "homepage": "https://github.com/AmruthKrishnaG/json-server-db#readme",
+  "bugs": {
+    "url": "https://github.com/AmruthKrishnaG/json-server-db/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmruthKrishnaG/json-server-db.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
